@@ -1,2 +1,1 @@
 print("welcom")
-print("5555")
